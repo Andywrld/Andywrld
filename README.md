@@ -1,7 +1,19 @@
-## Hi, Im Andy Torres 👋💻
+## Hi,Im Andy Torres 👋💻
 ![](https://github.com/user-attachments/assets/a3c7ac81-9cff-4e51-8eee-219dd6f63bb9)
+```
+const andywrld={
+technologies: 'web',
+code:{'Javascript, HTML, CSS,Python},
+tool:{'Node , Express, Django}
+passions: {'perfomance web', 'web development'}
+}
+```
+You can find me 🌍:
 
-**Andywrld/Andywrld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [Linkedin](https://www.linkedin.com/in/andy-torres-9a1136259/)
+- 
+
+
 
 Here are some ideas to get you started:
 
