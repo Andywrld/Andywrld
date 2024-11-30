@@ -11,7 +11,10 @@ const aboutMe = {
    pronouns: "he" | "him",
    code: [Javascript, HTML, CSS, Python,SQL],
    technologies: {
-     
+
+      frontEnd: {
+      ["React","Tailwindcss"]
+},
       backEnd: {
          js: ["Node", "Express"],
          py: ["Django"],
