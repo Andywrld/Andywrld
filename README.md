@@ -13,7 +13,7 @@ const aboutMe = {
    technologies: {
 
       frontEnd: {
-      ["React","Tailwindcss"]
+      ["React","Tailwindcss","Next.js"]
 },
       backEnd: {
          js: ["Node", "Express"],
@@ -21,7 +21,7 @@ const aboutMe = {
       },
       databases: ["PostgreSQl", "mySQL", "SQLlite"],
    },
-   currentOccupation: ["3er year student, open for job opportunities"]
+   currentOccupation: ["4er year student, open for job opportunities"]
 };
 ```
 You can me 🌍:
